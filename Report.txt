@@ -1,0 +1,25 @@
+﻿Elizabeth Lemus
+Math 120
+02 Dec 2025
+        Bias in Beauty: A Sentiment Analysis of Inclusivity in Makeup
+1. What is your topic? Why did you pick it?
+The goal of this project is to conduct a Sentiment Analysis on makeup product reviews and explore how the consumers view on inclusivity of certain products. Makeup has been around for thousands of years and yet many brands fail to prioritize inclusivity and accessibility. One of the most common complaints is the inability to cater to darker skintones in foundation,concealer, contour, and blush. It may seem like an irrelevant issue to some but it is rooted in bigger societal battles like social equity and empowering underrepresented people.  Specifically I will focus on a few brands which are known for being inclusive and compare them to brands that have received backlash in the past. I will conduct a sentiment analysis to determine if brands are living up to societal expectations of accessibility and inclusivity. 
+2. Research Question
+* How does sentiment differ between brands known for being inclusive versus brands that have been criticized for lack of inclusivity.
+* Are terms related to inclusivity more common in positive or negative reviews?
+3.Data Description/ Methods
+* Use data from Kaggle and pick specific brands and put them all on one csv file.
+* Clean data by removing stop words and punctuation 
+* Analyze statistical summaries for data, look at which brands/products has the most reviews
+* Conduct sentiment analysis by brand and then by product category
+* Create visual to show most common phrases in positive and negative reviews
+* Create scatter plots other graphs to compare sentiment of different brands 
+* Use Regression modeling to identify other relationships or make predictions
+* Compare results between brands 
+
+
+4. What challenges do you expect?
+* Messy data 
+* Imbalanced data set 
+* Too many reviews
+.
