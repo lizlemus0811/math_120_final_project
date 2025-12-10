@@ -2,7 +2,7 @@
 # Python Final Project: Sales Data Analysis
 
 ## Project Overview
-
+This project explores consumer sentiment regarding inclusivity in makeup brands using product reviews. I will compare sentiment between brands known for being inclusive and those that have faced criticism for limited shade ranges or accessibility. The analysis includes basic review exploration, sentiment scoring with VADER (SID), and visualization of trends across brands. The goal is to understand how consumers perceive inclusivity in the beauty industry and identify patterns in positive and negative feedback.
 
 ## Project Structure
 ```
