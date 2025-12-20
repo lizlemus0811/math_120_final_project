@@ -1,0 +1,28 @@
+﻿Elizabeth Lemus
+Math 120
+02 Dec 2025
+        Bias in Beauty: A Sentiment Analysis of Inclusivity in Makeup
+
+
+1. What is your topic? Why did you pick it?
+The goal of this project is to conduct a Sentiment Analysis on makeup product reviews and explore how the consumers view on inclusivity of certain products. Makeup has been around for thousands of years and yet many brands fail to prioritize inclusivity and accessibility. One of the most common complaints is the inability to cater to darker skintones in foundation,concealer, contour, and blush. It may seem like an irrelevant issue to some but it is rooted in bigger societal battles like social equity and empowering underrepresented people.  Specifically I will focus on a few brands and conduct a sentiment analysis to determine if brands are living up to societal expectations of accessibility and inclusivity. 
+2. Research Question
+* How does consumer sentiment differ among the following brand: Estee Lauder, Tarte, and Bobbi Brown?
+* How do reviews mentioning inclusivity keywords differ from those that do not?
+
+
+3.Data Description/ Methods
+The data was collected from Kaggle, and were cleaned and processed using VADAR to calculate the sentiment. I then labeled the sentiment positive, negative, or neutral.  I made a list of keywords related to inclusivity and used this list to identify what reviews included these words and analyze their corresponding sentiment score.  I used visualizations like box plots and bar graphs to look at the distribution of the sentiments per brand. 
+
+
+4. Findings 
+* Bobbi Brown had the highest average sentiment (0.786), followed by Estée Lauder (0.719) and tarte (0.651).
+* Reviews mentioning inclusivity keywords had slightly higher sentiment on average (0.749) than reviews without such mentions (0.700).
+* Reviews mentioning inclusivity keywords had slightly higher sentiment on average (0.749) than reviews without such mentions (0.700).
+* Among negative reviews, only 13.7% mentioned inclusivity, suggesting other factors (e.g., product texture, price) drove most dissatisfaction.
+
+
+Overall, the sentiment analysis on Bobbi Brown, Estee Lauder, and Tarte resulted in mainly positive. When we looked at reviews that mentioned the inclusivity key words we saw that they tend to be a bit more positive than the reviews that don't include those key words. This is a good indicator that the brands have done a great job at being inclusive in terms of shade range and accessibility for a variety of undertones and skin colors, which is a common subject when determining inclusivity in makeup brands. 
+
+
+.
